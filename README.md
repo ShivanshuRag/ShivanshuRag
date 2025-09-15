@@ -17,13 +17,13 @@
 
 <!-- GitHub Profile Views -->
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=ShivanshuRag&color=blueviolet" alt="ashutosh" />
+    <img src="https://komarev.com/ghpvc/?username=ShivanshuRag&color=blueviolet" alt="shivanshu" />
 </p>
 
 <!-- About Me -->
 <ul>
     <li>🌱 I’m currently learning </li>
-    <li>💬 Ask me about <strong>Frontend, GSAP, React, Express, MERN</strong></li>
+    <li>💬 Ask me about <strong> Reactjs, Nextjs Express, Node , Django</strong></li>
     <li>📫 How to reach me <strong>ragsingh773@gmail.com</strong></li>
 </ul>
 
@@ -81,9 +81,9 @@
     <a href="https://redux.js.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
     </a>
-    <a href="https://recoiljs.org/" target="_blank" rel="noreferrer">
+<!--     <a href="https://recoiljs.org/" target="_blank" rel="noreferrer">
         <img src="https://recoiljs.org/img/favicon.png" alt="recoil" width="40" height="40"/>
-    </a>
+    </a> -->
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
     </a>
@@ -98,12 +98,15 @@
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
     </a>
+        <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+        <img src="https://as1.ftcdn.net/v2/jpg/00/73/01/56/1000_F_73015687_Lg4EztjnF3WkpUCesOc51YJ0e6R1JR3V.jpg" alt="django" width="40" height="40"/>
+    </a>
     <a href="https://bun.sh/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=bun" alt="nodejs" width="40" height="40"/>
     </a>
-    <a href="https://firebase.com/" target="_blank" rel="noreferrer">
+<!--     <a href="https://firebase.com/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=firebase" alt="nodejs" width="40" height="40"/>
-    </a>
+    </a> -->
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=express" alt="express" height="40"/>
     </a>
